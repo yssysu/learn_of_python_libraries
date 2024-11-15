@@ -25,7 +25,7 @@ for k  in range(2):
         # axs[k,val].legend(['Line','points'])
         R = 0.5
         G = 0.8
-        B = 0.3
+        B = 0.4
         fig.legend(['points','line'],labelcolor = 'black',
                    title = 'extension',markerfirst = True,
                    shadow = True,facecolor = [R,G,B])
